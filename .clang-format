@@ -1,0 +1,30 @@
+---
+BasedOnStyle: LLVM
+UseTab: Never
+IndentWidth: 4
+TabWidth: 4
+ContinuationIndentWidth: 4
+ColumnLimit: 100
+BreakBeforeBraces: Allman
+IndentCaseLabels: true
+InsertBraces: true
+AllowShortBlocksOnASingleLine: Never
+AllowShortCaseLabelsOnASingleLine: false
+AllowShortEnumsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortLoopsOnASingleLine: false
+BinPackArguments: false
+BinPackParameters: OnePerLine
+AlignAfterOpenBracket: false
+BreakAfterOpenBracketFunction: true
+BreakStringLiterals: false
+PointerAlignment: Right
+SpaceBeforeParens: ControlStatements
+SortIncludes: Never
+SeparateDefinitionBlocks: Always
+MaxEmptyLinesToKeep: 1
+ReflowComments: Never
+QualifierAlignment: Leave
+LineEnding: DeriveLF
+...
